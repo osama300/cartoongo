@@ -1,12 +1,1 @@
-{ 
-"A" :"YUhSMGNITTZMeTloY0drdWRHVnNaV2R5WVcwdWIzSm5MMlpwYkdVdlltOTBPVGswTWpFME56WTRP
-a0ZCUm5ReGNtdGFOMTl5ZGtWVgpaMGxWUmtoelowMWphekpFZUdwSlZtazRabGhOTDJSdlkzVnRa
-VzUwY3k5bWFXeGxYek13TkM1MGVIUT0K
-",
-"B" : "B",
-"C" : "C" ,
-"D" : "",
-"S" : "A"
- 
-
-} 
+A
